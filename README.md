@@ -78,5 +78,3 @@ frente este aspecto.
 Lo podrá encontrar en el repositorio con el nombre de: _Punto B - Preguntas y respuestas al código_
 
 Muchas gracias por tu atención y disfruta del repositorio.
-  
-![https://www2.javerianacali.edu.co/sites/ujc/files/field/image/puj_logo_azul_copia1_0.png]
