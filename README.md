@@ -79,3 +79,4 @@ Lo podrá encontrar en el repositorio con el nombre de: _Punto B - Preguntas y r
 
 Muchas gracias por tu atención y disfruta del repositorio.
   
+![Logo Javeriana] https://www2.javerianacali.edu.co/sites/ujc/files/field/image/puj_logo_azul_copia1_0.png
